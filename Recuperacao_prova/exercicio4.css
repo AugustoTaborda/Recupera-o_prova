@@ -1,0 +1,277 @@
+body{
+    background-color: white ;
+}
+
+div.um1{
+    background-color: black;
+    position:absolute;
+    display: inline-block;
+    margin-left: 10px;
+    margin-top: 30px;
+    width:500px;
+    height: 1px;
+    align-items: center;
+}
+
+div.dois{
+    background-color: black;
+    position:absolute;
+    display: inline-block;
+    margin-left: 10px;
+    margin-top: 50px;
+    width: 500px;
+    height: 1px;
+    align-items: center;
+}
+
+div.tres{
+    background-color: black;
+    margin-right: 10px;
+    padding-right:0;  
+    display: inline-block;
+    margin-left: 10px;
+    margin-top: 12px;
+    width: 1px;
+    height: 40px;
+    align-items: center;
+}
+
+div.quatro{
+    background-color: black;
+    margin-right: 10px;
+    padding-right:0;  
+    display: inline-block;
+    margin-left: 485px;
+    margin-top: 12px;
+    width: 1px;
+    height: 40px;
+    align-items: center;
+}
+
+div.cinco{
+    background-color: black;
+    position:absolute;  
+    display: inline-block;
+    margin-left: -511px;
+    margin-top: 50px;
+    width: 1px;
+    height: 400px;
+    align-items: center;
+}
+
+div.seis{
+    background-color: black;
+    position:absolute;  
+    display: inline-block;
+    margin-left: -11px;
+    margin-top: 50px;
+    width: 1px;
+    height: 400px;
+    align-items: center;
+}
+
+
+div.oito{
+    background-color: black;
+    position:absolute;  
+    display: inline-block;
+    margin-left: -510px;
+    margin-top: 450px;
+    width: 500px;
+    height: 1px;
+    align-items: center;
+}
+
+div.sete{
+    background-color: white;
+    position:absolute;  
+    display: inline-block;
+    margin-left: -50px;
+    margin-top: 20px;
+    width: 20px;
+    height: 20px;
+    align-items: center;
+    border: 1px solid black;
+    padding: 1px; 
+}
+
+
+div.dez{
+    position:absolute;  
+    display: inline-block;
+    margin-left: -490px;
+    margin-top: 200px;
+    width: 1px;
+    height: 200px;
+    align-items: center;
+    padding: 1px;  
+    padding: 20px;
+    padding-right: 200px;
+    border-radius: 10px;
+}
+
+div.onze{
+    position:absolute;  
+    display: inline-block;
+    margin-left: -280px;
+    margin-top: 90px;
+    width: 1px;
+    height: 280px;
+    align-items: center;
+    padding: 1px;  
+    padding: 20px;
+    padding-right: 70px;
+    border-radius: 10px;
+}
+
+div.doze{
+
+    position:absolute;  
+    display: inline-block;
+    margin-left: -230px;
+    margin-top: 220px;
+    width: 1px;
+    height: 100px;
+    align-items: center;
+
+    padding: -1px;  
+    padding-right: 190px;
+    border-radius: 10px;
+}
+
+div.dezoito{
+
+    position:absolute;  
+    display: inline-block;
+    margin-left: -230px;
+    margin-top: 330px;
+    width: 1px;
+    height: 100px;
+    align-items: center;
+    padding: -1px;  
+    padding-right: 190px;
+    border-radius: 10px;
+
+    
+}
+
+div.desenove {
+
+
+    position:absolute;  
+    display: inline-block;
+    margin-left: -470px;
+    margin-top: 330px;
+    width: 50px;
+    height: 80px;
+    align-items: center;
+    
+    padding: 1px;  
+    padding: 10px;
+    padding-right: 120px;
+    border-radius: 10px;
+
+}
+
+div.treze{
+
+    position:absolute;  
+    display: inline-block;
+    margin-left: -470px;
+    margin-top: 220px;
+    width: 50px;
+    height: 80px;
+    align-items: center;
+    padding: 1px;  
+    padding: 10px;
+    padding-right: 120px;
+    border-radius: 10px;
+}
+
+div.quatorze {
+
+    background-color: white;
+    position:absolute;  
+    display: inline-block;
+    margin-left: -500px;
+    margin-top: 60px;
+    width: -11px;
+    height: 10px;
+    align-items: center;
+    border: 1px solid black;
+    padding: 1px;  
+    padding: 35px;
+    padding-right: 100px;
+    border-radius: 10px;
+}
+
+div.quinze {
+
+    background-color: white;
+    position:absolute;  
+    display: inline-block;
+    margin-left: -330px;
+    margin-top: 210px;
+    width: -11px;
+    height: 10px;
+    align-items: center;
+    border: 1px solid black;
+    padding: 1px;  
+    padding: 35px;
+    padding-right: 80px;
+    border-radius: 10px;
+}
+div.dezeseis {
+
+    background-color: white;
+    position:absolute;  
+    display: inline-block;
+    margin-left: -135px;
+    margin-top: 360px;
+    width: -11px;
+    height: 10px;
+    align-items: center;
+    border: 1px solid black;
+    padding: 1px;  
+    padding: 35px;
+    padding-right: 80px;
+    border-radius: 10px;
+
+}
+
+div.dezesete {
+
+    background-color: white;
+    position:absolute;  
+    display: inline-block;
+    margin-left: -135px;
+    margin-top: 60px;
+    width: -11px;
+    height: 10px;
+    align-items: center;
+    border: 1px solid black;
+    padding: 1px;  
+    padding: 35px;
+    padding-right: 80px;
+    border-radius: 10px;
+
+
+}
+
+div.nove{
+    background-color: white;
+    position:absolute;  
+    display: inline-block;
+    margin-left: -500px;
+    margin-top: 360px;
+    width: 20px;
+    height: 10px;
+    align-items: center;
+    border: 1px solid black;
+    padding: 1px;  
+    padding: 35px;
+    padding-right: 80px;
+    border-radius: 10px;
+}
+
+
